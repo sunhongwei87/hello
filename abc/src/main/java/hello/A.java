@@ -8,5 +8,6 @@ public class A {
         System.out.println(88888);
         System.out.println(444444);
         System.out.println(11111);
+        System.out.println(222222);
     }
 }
