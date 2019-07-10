@@ -6,5 +6,7 @@ public class A {
         System.out.println(3333);
         System.out.println(22222);
         System.out.println(88888);
+        System.out.println(444444);
+        System.out.println(11111);
     }
 }
